@@ -80,25 +80,18 @@ Compare the original modulating signal with the demodulated signal.
 * Save the file.
 * Execute the code.
 * If any Error, correct it in code and execute again.
-* Verify the generated waveform using Tabulation and Model Waveform.
-## Model graph
-<img width="503" height="350" alt="image" src="https://github.com/user-attachments/assets/2e10c9cc-39fa-40d2-8246-d1cf6e26e122" />
-
+* Verify the generated waveform using Tabulation and Model Waveform
 
 # TABULATION
-<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 07 PM" src="https://github.com/user-attachments/assets/546b2628-df1f-4d52-9777-52fe14660975" />
-
-
-
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/bb3e86f7-690c-4a62-9a97-33b1530b5041" />
 # CALCULATION
 
-<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 50 PM" src="https://github.com/user-attachments/assets/2ab8ab45-24fe-4aa3-a1e5-b1ab0944c12d" />
-<img width="848" height="1280" alt="WhatsApp Image 2026-09-18 at 11 13 11 PM" src="https://github.com/user-attachments/assets/c1e08f41-e0b9-48c6-b27b-64594c4801fb" />
+<img width="1600" height="1322" alt="image" src="https://github.com/user-attachments/assets/fd656dae-12e9-4431-b997-4fdae85a6c90" />
 
 
 ## Output
-<img width="1917" height="1021" alt="Screenshot 2026-09-18 232107" src="https://github.com/user-attachments/assets/3820d5d8-3625-4a19-bc82-73532e7ea544" />
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/957b8845-4236-4920-aaa0-c51c56e18f47" />
 
 
 ## Result
